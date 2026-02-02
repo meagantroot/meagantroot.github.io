@@ -94,14 +94,14 @@ share-links-active:
   facebook: true
   linkedin: true
   vk: false
-  reddit: false
+  reddit: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "mltydesigns.com"
 
 # Add the website title to the title of every page
-title-on-all-pages: false
+title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
