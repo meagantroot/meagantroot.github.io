@@ -1,10 +1,9 @@
 ---
 layout: page
-Title: 
 subtitle: About Me
 ---
 
-## More Content Coming Soon
+More Content Coming Soon
 
 Contact Info: [contact@mltydesigns.com](mailto:contact@mltydesigns.com)
 
