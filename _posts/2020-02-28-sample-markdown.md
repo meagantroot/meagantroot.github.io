@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Meagan Truglio
 ---
 
 {: .box-success}
