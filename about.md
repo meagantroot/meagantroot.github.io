@@ -5,7 +5,7 @@ subtitle: About Me
 
 Experienced IT leader with over a decade of hands-on expertise in web development, Systems Administration, and digital compliance. Proven track record of managing complex, secure hosting environments and leading a small cross-functional team to deliver high-performance, accessible, and compliant web solutions. Skilled in Linux server administration, WordPress development, and implementing privacy and accessibility standards such as PCI-DSS, GDPR, CCPA, and ADA/WCAG. Passionate about supporting mission-driven organizations through scalable technology solutions.
 
-Contact Info: [contact@mltydesigns.com](mailto:contact@mltydesigns.com)
+### My Certifications
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="094df2af-9cba-4b12-8613-4df1ac3d25e1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
@@ -15,5 +15,8 @@ Contact Info: [contact@mltydesigns.com](mailto:contact@mltydesigns.com)
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d044f5be-2424-4129-b226-02a38403106b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+### Contact Me
+
+Contact Info: [contact@mltydesigns.com](mailto:contact@mltydesigns.com)
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="meaganltruglio" data-version="v1"><!-- <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/meaganltruglio?trk=profile-badge"></a> --></div>
