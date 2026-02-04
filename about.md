@@ -20,9 +20,11 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d044f5be-2424-4129-b226-02a38403106b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-<!-- Include the library's CSS and JS -->
-<link rel="stylesheet" href="https://unpkg.com"/>
-<script src="https://unpkg.com"></script>
+<!-- GitHub Calendar CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-calendar@2.3.4/dist/github-calendar-responsive.min.css"/>
+
+<!-- GitHub Calendar JS -->
+<script src="https://cdn.jsdelivr.net/npm/github-calendar@2.3.4/dist/github-calendar.min.js"></script>
 
 #### GitHub Activity
 
