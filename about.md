@@ -43,11 +43,11 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
 }
 
 /* Color the squares: L1 is lightest, L4 is darkest */
-.calendar .ContributionCalendar-day[data-level="0"] { fill: #ebedf0; } /* Empty */
-.calendar .ContributionCalendar-day[data-level="1"] { fill: #d1d5ff; } 
-.calendar .ContributionCalendar-day[data-level="2"] { fill: #a3a7ff; }
-.calendar .ContributionCalendar-day[data-level="3"] { fill: #7579ff; }
-.calendar .ContributionCalendar-day[data-level="4"] { fill: #474bff; }
+.calendar .ContributionCalendar-day[data-level="0"] { fill: #ebedf0 !important; } /* Empty */
+.calendar .ContributionCalendar-day[data-level="1"] { fill: #d1d5ff !important; } 
+.calendar .ContributionCalendar-day[data-level="2"] { fill: #a3a7ff !important; }
+.calendar .ContributionCalendar-day[data-level="3"] { fill: #7579ff !important; }
+.calendar .ContributionCalendar-day[data-level="4"] { fill: #474bff !important; }
 
 /* Optional: Match the text font to your theme */
 .calendar {
