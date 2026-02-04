@@ -66,7 +66,7 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
     Loading Meagan's contributions...
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app)
+![Languages](https://github-readme-stats-eight-theta.vercel.app)
 
 <script>
     // Initialize the calendar for your username
