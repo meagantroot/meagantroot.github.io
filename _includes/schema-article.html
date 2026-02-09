@@ -3,7 +3,8 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "@id": "{{ '/about' | absolute_url }}",
-  "headline": "{{ site.title }}",
+  "headline": "{{ page.title }}",
+  "description": "{{ page.subtitle }}",
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   "author": {
     "@id": "{{ '/about' | absolute_url }}"
