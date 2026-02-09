@@ -2,14 +2,6 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   
-  {% if page.schema == "person" %}
-    {% include schema-person.html %}
-  {% elsif page.schema == "webpage" %}
-    {% include schema-webpage.html %}
-  {% elsif page.schema == "article" %}
-    {% include schema-article.html %}
-  {% endif %}
-  
   {% capture pagetitle %}
     {%- if page.share-title -%}
       {{ page.share-title | strip_html | xml_escape }}
@@ -58,6 +50,14 @@
   <meta name="theme-color" content="{{ site.mobile-theme-col }}">
   {% endif %}
 
+  {% if page.schema == "person" %}
+    {% include schema-person.html %}
+  {% elsif page.schema == "webpage" %}
+    {% include schema-webpage.html %}
+  {% elsif page.schema == "article" %}
+    {% include schema-article.html %}
+  {% endif %}
+  
   {% if site.keywords %}
   <meta name="keywords" content="{{ site.keywords }}">
   {% endif %}
