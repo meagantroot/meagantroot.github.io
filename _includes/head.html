@@ -3,11 +3,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   
   {% if page.schema == "person" %}
-    {% include _layouts/Person_schema.html %}
+    {% include schema-person.html %}
   {% elsif page.schema == "webpage" %}
-    {% include _layouts/WebPage_schema.html %}
+    {% include schema-webpage.html %}
   {% elsif page.schema == "article" %}
-    {% include _layouts/Article_schema.html %}
+    {% include schema-article.html %}
   {% endif %}
   
   {% capture pagetitle %}
