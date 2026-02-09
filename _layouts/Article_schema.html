@@ -1,0 +1,12 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "{{ '/about' | absolute_url }}",
+  "headline": "{{ site.title }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "author": {
+    "@id": "{{ '/about' | absolute_url }}"
+  }
+}
+</script>
