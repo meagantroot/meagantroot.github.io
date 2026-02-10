@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 share-description: "Experienced IT professional with over a decade of hands-on expertise in web development, Systems Administration, and digital compliance."
+share-img: https://mltydesigns.com/assets/img/Meagan_Truglio.jpeg
 schema: person
 ---
 
