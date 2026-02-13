@@ -1,7 +1,7 @@
 ---
 layout: plant
 title: Shishito Pepper
-subtitle: 04:65:46:72:C8:2A:81
+subtitle: 
 tags: [peppers]
 comments: false
 author: Meagan Truglio
@@ -16,5 +16,3 @@ soil_temp: "70-90°F"
 humidity: "70-90%"
 light: "8-10 hours"
 ---
-
-Test content. 
