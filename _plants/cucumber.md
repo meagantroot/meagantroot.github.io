@@ -1,6 +1,6 @@
 ---
 layout: plant
-title: Costoluto Genovese Tomato
+title: Cucumber
 subtitle: 
 tags: [vines]
 comments: false
@@ -11,8 +11,8 @@ readtime: false
 schema: article
 pepper: false
 scoville:  # Use the range from base to peak scoville
-germination_days: "5-15"
-soil_temp: "70-85°F"
-humidity: "60-80%"
-light: "14-16 hours"
+germination_days: "3-10"
+soil_temp: "80-90°F"
+humidity: "80-100%"
+light: "10-12 hours"
 ---
