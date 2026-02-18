@@ -19,7 +19,54 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
 
 ### My Certifications
 
-<!-- Credly Badges -->
+<style>
+
+    .image-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 15px;
+        padding: 20px;
+        max-width: 100%;
+        margin: auto;
+    }
+
+    .image-grid img {
+        width: 100%;
+        height: 150px;
+        object-fit: contain;
+        border-radius: 0px;
+        transition: transform 0.3s ease;
+    }
+
+    .image-grid img:hover {
+        transform: scale(1.05);
+    }
+
+    /* Tablet */
+    @media (max-width: 992px) {
+        .image-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+
+    /* Mobile */
+    @media (max-width: 576px) {
+        .image-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>
+
+
+<div class="image-grid">
+    <img src="/assets/img/A+.webp" alt="CompTIA A+ Certified" title="CompTIA A+ Certified">
+    <img src="/assets/img/Network+.webp" alt="CompTIA Network+ Certified" title="CompTIA Network+ Certified">
+    <img src="/assets/img/Security+.webp" alt="CompTIA Security+ Certified" title="CompTIA Security+ Certified">
+    <img src="/assets/img/isc2-cc-logo.webp" alt="ISC/2 Certified in Cybersecurity (CC)" title="ISC/2 Certified in Cybersecurity (CC)">
+    <img src="/assets/img/GitHub-Foundations-Badge.webp" alt="GitHub Foundations Certified" title="GitHub Foundations Certified">
+</div>
+
+<!-- Credly Badges 
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="094df2af-9cba-4b12-8613-4df1ac3d25e1" data-share-badge-host="https://www.credly.com"></div>
 
@@ -31,7 +78,7 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
 
 <div style="flex: 1;">
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/MeaganTruglio/8D1FEF3C7160E9C5"><img src="/assets/img/github-foundations.svg" width=150 height=150 alt="GitHub Foundations Certified" title="GitHub Foundations Certified" /></a>
-</div>
+</div> -->
 
 <!-- GitHub Calendar CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-calendar@2.3.4/dist/github-calendar-responsive.min.css"/>
