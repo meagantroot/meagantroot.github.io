@@ -38,7 +38,7 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
     <a href="https://www.credly.com/badges/d044f5be-2424-4129-b226-02a38403106b"><img src="/assets/img/Security+.jpg" width=150 height=150 alt="CompTIA Security+ Certified"/></a>
   </div>
   <div>
-    <a href="https://www.credly.com/badges/094df2af-9cba-4b12-8613-4df1ac3d25e1"><img src="/asset/img/isc2-cc-logo.webp" width=150 height=150 alt="ISC/2 Certified in Cybersecurity (CC)"/></a>
+    <a href="https://www.credly.com/badges/094df2af-9cba-4b12-8613-4df1ac3d25e1"><img src="/assets/img/isc2-cc-logo.webp" width=150 height=150 alt="ISC/2 Certified in Cybersecurity (CC)"/></a>
   </div>
   <div>
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/MeaganTruglio/8D1FEF3C7160E9C5"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-foundations.svg?branch=main" width=150 height=150 alt="GitHub Foundations Certified"/></a>
