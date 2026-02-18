@@ -112,7 +112,7 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
     Loading Meagan's contributions...
 </div>
 
-<script>
+<script async>
     // Initialize the calendar for your username
     GitHubCalendar(".calendar", "meagantroot", { responsive: true, global_stats: false });
 </script>
