@@ -70,7 +70,7 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-calendar@2.3.4/dist/github-calendar-responsive.min.css"/>
 
 <!-- GitHub Calendar JS -->
-<script async defer src="https://cdn.jsdelivr.net/npm/github-calendar@2.3.4/dist/github-calendar.min.js"></script>
+<script async src="https://cdn.jsdelivr.net/npm/github-calendar@2.3.4/dist/github-calendar.min.js"></script>
 
 #### GitHub Activity
 
@@ -116,5 +116,3 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
     // Initialize the calendar for your username
     GitHubCalendar(".calendar", "meagantroot", { responsive: true, global_stats: false });
 </script>
-
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
