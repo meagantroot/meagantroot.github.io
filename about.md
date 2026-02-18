@@ -19,11 +19,11 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
 
 ### My Certifications
 
-<a href="https://www.credly.com/badges/7efbb25c-f6ea-49c7-b2ef-8343ba228d71"><img src="/assets/img/A+.jpg" width=150 height=150 alt="CompTIA A+ Certified"/></a>
+<div><a href="https://www.credly.com/badges/7efbb25c-f6ea-49c7-b2ef-8343ba228d71"><img src="/assets/img/A+.jpg" width=150 height=150 alt="CompTIA A+ Certified"/></a></div>
 
-<a href="https://www.credly.com/badges/c247895e-4151-4e9e-af38-32f0c80997eb"><img src="/assets/img/Network+.jpg" width=150 height=150 alt="CompTIA Network+ Certified"/></a>
+<div><a href="https://www.credly.com/badges/c247895e-4151-4e9e-af38-32f0c80997eb"><img src="/assets/img/Network+.jpg" width=150 height=150 alt="CompTIA Network+ Certified"/></a></div>
 
-<a href="https://www.credly.com/badges/d044f5be-2424-4129-b226-02a38403106b"><img src="/assets/img/Security+.jpg" width=150 height=150 alt="CompTIA Security+ Certified"/></a>
+<div><a href="https://www.credly.com/badges/d044f5be-2424-4129-b226-02a38403106b"><img src="/assets/img/Security+.jpg" width=150 height=150 alt="CompTIA Security+ Certified"/></a></div>
 
 
 <!-- Credly Badges -->
