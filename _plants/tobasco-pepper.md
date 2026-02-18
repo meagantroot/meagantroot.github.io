@@ -16,4 +16,6 @@ soil_temp: "70-85°F"
 humidity: "80-90%"
 light: "6-8 hours"
 noindex: true
+redirect_from:
+  - /04:EC:6B:71:C8:2A:81
 ---
