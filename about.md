@@ -19,11 +19,25 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
 
 ### My Certifications
 
-<div><a href="https://www.credly.com/badges/7efbb25c-f6ea-49c7-b2ef-8343ba228d71"><img src="/assets/img/A+.jpg" width=150 height=150 alt="CompTIA A+ Certified"/></a></div>
+<style>
+  .certifications-column-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; /* Three equal columns */
+    gap: 20px;                      /* Spacing between columns */
+  }
+</style>
 
-<div><a href="https://www.credly.com/badges/c247895e-4151-4e9e-af38-32f0c80997eb"><img src="/assets/img/Network+.jpg" width=150 height=150 alt="CompTIA Network+ Certified"/></a></div>
-
-<div><a href="https://www.credly.com/badges/d044f5be-2424-4129-b226-02a38403106b"><img src="/assets/img/Security+.jpg" width=150 height=150 alt="CompTIA Security+ Certified"/></a></div>
+<div class="certifications-column-wrapper">
+  <div markdown="1">
+    <a href="https://www.credly.com/badges/7efbb25c-f6ea-49c7-b2ef-8343ba228d71"><img src="/assets/img/A+.jpg" width=150 height=150 alt="CompTIA A+ Certified"/></a>
+  </div>
+  <div markdown="1">
+    <a href="https://www.credly.com/badges/c247895e-4151-4e9e-af38-32f0c80997eb"><img src="/assets/img/Network+.jpg" width=150 height=150 alt="CompTIA Network+ Certified"/></a>
+  </div>
+    <div markdown="1">
+    <a href="https://www.credly.com/badges/d044f5be-2424-4129-b226-02a38403106b"><img src="/assets/img/Security+.jpg" width=150 height=150 alt="CompTIA Security+ Certified"/></a>
+  </div>
+</div>
 
 
 <!-- Credly Badges -->
