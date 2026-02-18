@@ -66,20 +66,6 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
     <a href="https://learn.microsoft.com/en-us/users/meagantruglio/credentials/8d1fef3c7160e9c5" target="_blank"><img src="/assets/img/GitHub-Foundations-Badge.webp" alt="GitHub Foundations Certified" title="GitHub Foundations Certified"></a>
 </div>
 
-<!-- Credly Badges 
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="094df2af-9cba-4b12-8613-4df1ac3d25e1" data-share-badge-host="https://www.credly.com"></div>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7efbb25c-f6ea-49c7-b2ef-8343ba228d71" data-share-badge-host="https://www.credly.com"></div>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c247895e-4151-4e9e-af38-32f0c80997eb" data-share-badge-host="https://www.credly.com"></div>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d044f5be-2424-4129-b226-02a38403106b" data-share-badge-host="https://www.credly.com"></div>
-
-<div style="flex: 1;">
-    <a href="https://learn.microsoft.com/api/credentials/share/en-us/MeaganTruglio/8D1FEF3C7160E9C5"><img src="/assets/img/github-foundations.svg" width=150 height=150 alt="GitHub Foundations Certified" title="GitHub Foundations Certified" /></a>
-</div> -->
-
 <!-- GitHub Calendar CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-calendar@2.3.4/dist/github-calendar-responsive.min.css"/>
 
@@ -100,7 +86,7 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
     margin: 0 auto;
     overflow-x: auto; /* Adds a scrollbar on mobile instead of breaking layout */
     overflow-y: hidden;
-    padding: 10px;
+    padding: 30px;
     display: flex;
     justify-content: center;
 }
