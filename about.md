@@ -70,7 +70,7 @@ Experienced IT professional with over a decade of hands-on expertise in web deve
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-calendar@2.3.4/dist/github-calendar-responsive.min.css"/>
 
 <!-- GitHub Calendar JS -->
-<script src="https://cdn.jsdelivr.net/npm/github-calendar@2.3.4/dist/github-calendar.min.js"></script>
+<script async defer src="https://cdn.jsdelivr.net/npm/github-calendar@2.3.4/dist/github-calendar.min.js"></script>
 
 #### GitHub Activity
 
