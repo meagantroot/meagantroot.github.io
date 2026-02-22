@@ -18,4 +18,5 @@ light: "14-16 hours"
 noindex: true
 redirect_from:
   - /04:91:28:72:C8:2A:81
+  - /04:72:E6:71:C8:2A:81
 ---
